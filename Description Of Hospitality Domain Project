@@ -1,0 +1,27 @@
+Power BI Hospitality Domain Project
+
+Project Description:
+Data Extraction and Preparat: Extracted CSV files from Kaggle for the hospitality domain.Performed data cleaning, and data modeling.
+
+Key Metrics Identification: Identified essential metrics for analysis. Calculated columns are day type and week number.
+
+Implemented key measures including ADR (Average Daily Rate, Occupancy %, RevPar (Revenue per Available Room), Total Revenue,  DSRN (Daily Sellable Room Nights),
+Realization %, Total capacity, Average Rating, Total Rooms.
+                                            
+Dashboard Creation and Insights: Created a comprehensive dashboard with KPIs.Derived insights from the visualizations. Analysed hotel revenue over three months.
+Focused on the revenue of the least performing hotels.Analyzed booking rates across different channels.Listed various measures that hinder revenue.
+
+Revenue Improvement Insights:
+       1. Updating Online Content - Update photos of new rooms and services on the hotel website. 
+       2.Customer Reviews and Ratings - Conduct a thorough customer feedback study. 
+       3.Pricing Strategy - Maintain the same Pricing Strategy in all the channels. 
+       4.Promotions - Offer discount coupons in all the channels. Additional discount of 5 %  if booked from your website or you can give a complementary night stay free. 
+       5.Weekday and Weekend Pricing Strategy:  Weekday and weekend pricing can be implemented based on occupancy rate and competition.
+
+
+
+
+
+
+
+
